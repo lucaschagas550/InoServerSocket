@@ -1,0 +1,17 @@
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\InoServerSocketTcp.exe
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\InoServerSocketTcp.deps.json
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\InoServerSocketTcp.runtimeconfig.json
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\InoServerSocketTcp.dll
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\ref\InoServerSocketTcp.dll
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\InoServerSocketTcp.pdb
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.csproj.AssemblyReference.cache
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.AssemblyInfoInputs.cache
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.AssemblyInfo.cs
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.csproj.CoreCompileInputs.cache
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.dll
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\ref\InoServerSocketTcp.dll
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.pdb
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.genruntimeconfig.cache
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Exemplo Socket C#\ServerSocketTcp\InoServerSocketTcp\obj\Debug\net6.0\InoServerSocketTcp.csproj.CopyComplete
